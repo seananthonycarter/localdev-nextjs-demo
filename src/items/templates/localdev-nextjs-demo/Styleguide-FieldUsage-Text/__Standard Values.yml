@@ -1,0 +1,31 @@
+﻿---
+ID: "6db78f6e-480e-5311-8383-fb4e168503ed"
+Parent: "03a38533-26ed-5c7d-8fe7-e762a768cdd4"
+Template: "03a38533-26ed-5c7d-8fe7-e762a768cdd4"
+Path: "/sitecore/templates/Project/localdev-nextjs-demo/Styleguide-FieldUsage-Text/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231205T194702Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d2e6c15-dc50-426b-8fef-5c3e2d3e6112"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231205T194702Z

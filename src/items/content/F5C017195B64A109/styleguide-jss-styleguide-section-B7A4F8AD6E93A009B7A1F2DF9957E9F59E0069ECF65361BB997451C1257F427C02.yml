@@ -1,0 +1,42 @@
+﻿---
+ID: "72b0422f-d248-54fd-861e-829382c45dc2"
+Parent: "cfd868a1-5ef4-565d-91bf-d271f9dec31f"
+Template: "3eca2552-1852-5c28-ba33-5bc6ca76e1b6"
+Path: "/sitecore/content/localdev-nextjs-demo/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7A4F8AD6E93A009B7A1F2DF9957E9F59E0069ECF65361BB997451C1257F427C02"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Date-8"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ef3eab7-97e8-53a7-8741-41f60b7c39c3"
+      Hint: dateTime
+      Value: 20180314T150000Z
+    - ID: "2053bf64-4758-5f6f-aef7-3b621661b541"
+      Hint: heading
+      Value: Date
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231205T194725Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6cdf5fa-a09d-4409-9052-560910322146"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "cddd3b05-be91-5320-8fe0-d1898c78ca70"
+      Hint: date
+      Value: 20120504T000000Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231205T194725Z
+    - ID: "f480a2b1-38fa-5257-99d4-e1d95ad248f1"
+      Hint: description
+      Value: |
+        <p><small>Both <code>Date</code> and <code>DateTime</code> field types are available. Choosing <code>DateTime</code> will make Sitecore show editing UI for time; both types store complete date and time values internally. Date values in JSS are formatted using <a href="https://en.wikipedia.org/wiki/ISO_8601#Combined_date_and_time_representations" target="_blank">ISO 8601 formatted strings</a>, for example <code>2012-04-23T18:25:43.511Z</code>.</small></p>
+        <div class="alert alert-warning"><small>Note: this is a JavaScript date format (e.g. <code>new Date().toISOString()</code>), and is different from how Sitecore stores date field values internally. Sitecore-formatted dates will not work.</small></div>
+        

@@ -1,0 +1,49 @@
+﻿---
+ID: "4ee942d0-5ad0-5cb3-b306-8c113f94db20"
+Parent: "cfd868a1-5ef4-565d-91bf-d271f9dec31f"
+Template: "2c8c4955-b761-544e-a6de-256a561bb553"
+Path: "/sitecore/content/localdev-nextjs-demo/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7FCF54E14D2DDEE96747EE3CC441EBE9A4FE9EE7D90F5ABCCDE076F5B72DBDA43"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Link-9"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14c76a98-69d5-5004-8b4f-b941b63c59e3"
+      Hint: externalLink
+      Value: |
+        <link linktype="external" text="Link to Sitecore" url="https://www.sitecore.com" />
+    - ID: "2053bf64-4758-5f6f-aef7-3b621661b541"
+      Hint: heading
+      Value: General Link
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231205T194725Z
+    - ID: "6d6313f8-f91b-518e-8eb3-a5c0a8d271ff"
+      Hint: paramsLink
+      Value: |
+        <link class="fw-bold" target="_blank" title="&lt;a&gt; title attribute" linktype="external" text="Sitecore Dev Site" url="https://dev.sitecore.net" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7ece87e-8946-464f-bf02-289d792fcef3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "c5713999-0de5-5fee-aaaa-783f092383ef"
+      Hint: emailLink
+      Value: |
+        <link linktype="mailto" text="Send an Email" url="mailto:foo@bar.com" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231205T203652Z
+    - ID: "e0bd950e-5f59-5126-b0a0-3c5332137e1a"
+      Hint: internalLink
+      Value: |
+        <link id="{63114656-E059-55C7-9389-6692DC83CA2F}" linktype="internal" />
+    - ID: "f480a2b1-38fa-5257-99d4-e1d95ad248f1"
+      Hint: description
+      Value: <p>A <em>General Link</em> is a field that represents an <code>&lt;a&gt;</code> tag.</p>

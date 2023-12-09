@@ -1,0 +1,34 @@
+﻿---
+ID: "82f27699-28f5-584a-8751-4d6c1bddc489"
+Parent: "b3a56e92-2e92-5cd0-bc77-8b8e89f19b24"
+Template: "7d4fbca1-6392-5942-b031-95d99a7c4ed9"
+Path: "/sitecore/content/localdev-nextjs-demo/home/graphql/Page Components/graphql-jss-graphql-layout-A9FBC7CC-F00B-58A2-873B-4C70C726476C-0-GraphQL-ConnectedDemo-2"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "GraphQL-ConnectedDemo-2"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231205T194721Z
+    - ID: "3927371b-7e6b-5021-8fa3-d7526fdc0851"
+      Hint: sample1
+      Value: "Hello connected GraphQL world!"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83ef27e7-b634-4975-9774-19fa83c29df3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "c1e9c9a5-5377-5213-9a5a-717fe2c39bd0"
+      Hint: sample2
+      Value: |
+        <link target="_blank" linktype="external" text="GraphQL lets you get structured field data too" url="https://www.sitecore.com" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231205T203651Z

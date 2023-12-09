@@ -1,0 +1,52 @@
+﻿---
+ID: "4b7c71d8-74fc-561b-b4d0-d8cb775748fd"
+Parent: "cfd868a1-5ef4-565d-91bf-d271f9dec31f"
+Template: "049041cf-be1c-5503-a352-550d9fb0d46d"
+Path: "/sitecore/content/localdev-nextjs-demo/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2053bf64-4758-5f6f-aef7-3b621661b541"
+      Hint: heading
+      Value: Content List
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231205T194726Z
+    - ID: "377f77d9-50c1-57cd-93aa-5a9c9a275b3a"
+      Hint: localContentList
+      Value: |
+        {FF4B8034-B590-5783-B102-60CFC07ED667}
+        {2AA2CDA1-93E3-504F-9771-C812404900D9}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8343ff85-62f5-4c7a-b490-7192f8835246"
+    - ID: "8e3c38b7-1f89-59ec-ab87-1b29ab37c729"
+      Hint: sharedContentList
+      Value: |
+        {B7B3B5C2-172B-530A-8411-134FD83568AC}
+        {48192AAA-8BB3-5DAE-93F5-2230062C3254}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231205T194726Z
+    - ID: "f480a2b1-38fa-5257-99d4-e1d95ad248f1"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Content Lists are a way to reference zero or more other content items.
+            Referenced items may be shared.
+            To reference a single content item, use an <em>Item Link</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Content List fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        

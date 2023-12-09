@@ -1,0 +1,30 @@
+﻿---
+ID: "86a99332-d6fc-5b30-9cf2-180aa7e39531"
+Parent: "8378d373-e9c5-5eaa-953a-e7328d4a6744"
+Template: "875f920c-2997-50f0-82d2-73cfcaf8d569"
+Path: "/sitecore/content/localdev-nextjs-demo/Content/Styleguide/EditFrameDemo/Item2"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: EditFrame Demo List Item 2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231205T194719Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "24193286-d62b-45f8-8914-3374ae032581"
+    - ID: "ac1e4195-6b70-5318-8032-7db6d35cf624"
+      Hint: title
+      Value: Edit Frame Demo List Item 2
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231205T194719Z

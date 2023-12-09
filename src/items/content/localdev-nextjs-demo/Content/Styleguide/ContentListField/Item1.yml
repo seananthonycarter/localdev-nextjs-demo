@@ -1,0 +1,30 @@
+﻿---
+ID: "b7b3b5c2-172b-530a-8411-134fd83568ac"
+Parent: "7cc656f0-18af-53f6-85d1-f4855633059f"
+Template: "5442ddfe-9312-556c-852a-cd43c76f44af"
+Path: "/sitecore/content/localdev-nextjs-demo/Content/Styleguide/ContentListField/Item1"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Styleguide Content List Item 1 (Shared)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231205T194719Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "877f44ea-bda3-4c20-970d-c990cc0c0f70"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231205T194719Z
+    - ID: "e9c51295-ec37-5a9a-874a-6eeca2982e84"
+      Hint: textField
+      Value: ContentList Demo (Shared) Item 1 Text Field

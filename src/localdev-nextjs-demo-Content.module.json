@@ -1,0 +1,16 @@
+{
+    "namespace": "localdev-nextjs-demo-Content",
+    "references": [ "localdev-nextjs-demo" ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/localdev-nextjs-demo"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/localdev-nextjs-demo"
+            }
+        ]
+    }
+}

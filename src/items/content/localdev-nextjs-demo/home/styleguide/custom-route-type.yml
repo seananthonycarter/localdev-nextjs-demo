@@ -1,0 +1,51 @@
+﻿---
+ID: "046b70c3-6e80-522c-ab38-e230345f33b8"
+Parent: "b092cdcf-88bd-5341-b036-6e8a3eb83e0e"
+Template: "e7eeda7e-6aab-5cd7-a30f-9f2261d278a7"
+Path: "/sitecore/content/localdev-nextjs-demo/home/styleguide/custom-route-type"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{621128A6-CC4D-5287-8ED6-E4A89A7DBBDB}"
+              p:after="*[1=2]"
+              s:rname="Styleguide-CustomRouteType"
+              s:id="{E44158F5-28B5-523A-A8D0-1C418DF9CA59}"
+              s:par=""
+              s:ph="/jss-main" />
+          </d>
+        </r>
+    - ID: "0b1cdda9-9cd5-5762-95d0-3dda19a8e6e2"
+      Hint: content
+      Value: "<p>Custom route type fields are good for things like articles, where you may wish to have a filter UI on content fields, such as author or category. Route level fields are easy to query against, whereas component-level fields are not because it's possible to remove a component from a route. Note that route level fields <em>cannot be personalized</em> because you cannot conditionally swap out the route item for a different content item.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231205T194729Z
+    - ID: "446e4104-f1a6-5f1b-9613-ff48c950bccc"
+      Hint: pageTitle
+      Value: Custom Route Type | Sitecore JSS
+    - ID: "53fe09f9-4516-55f5-abe1-defccedb93e9"
+      Hint: author
+      Value: Myrtle
+    - ID: "59d5497b-7077-5f52-8e5e-8b982d236b68"
+      Hint: headline
+      Value: "A Treatise on Route-Level Fields in JSS"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "55ede0c1-af4a-4809-9ef1-cbae481cb362"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231205T203652Z

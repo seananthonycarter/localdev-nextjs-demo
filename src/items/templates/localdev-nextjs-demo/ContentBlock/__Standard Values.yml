@@ -1,0 +1,31 @@
+﻿---
+ID: "a57e5fb2-d6c8-5a34-a155-8638faee2719"
+Parent: "b733f7d3-0dd0-5ff4-9467-b1ba0cc6cd69"
+Template: "b733f7d3-0dd0-5ff4-9467-b1ba0cc6cd69"
+Path: "/sitecore/templates/Project/localdev-nextjs-demo/ContentBlock/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231205T194653Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd5343fb-39c3-4bd3-8a78-0c8d8a97ee11"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231205T194653Z
